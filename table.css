@@ -1,0 +1,30 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.con{
+   
+        background-color: rgb(219, 245, 23);
+        color: rgb(14, 14, 14);
+        margin-left: 25%;
+        margin-right: 28%;
+        margin-top: 12%;
+        height: 30vh;
+        padding-left: 7%;
+        padding-top: 3%;
+        padding-bottom: 8%;
+        font-size: 20px;
+ 
+
+}
+#tut{
+    width: 100px;
+    height: 33px;
+    background-color: rgb(248, 57, 4);
+    color: rgb(251, 248, 248);
+    border-radius: 5px;
+}
+#abcd{
+    height:30px;
+    width: 50%;
+}
